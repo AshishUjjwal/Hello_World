@@ -12,8 +12,8 @@ using namespace std;
 
 void solve(){
     int n;cin>>n;
-    for(int i=0; i<n; i++){
-        cout<<i<<endl;
+    for(int i=1; i<=n; i++){
+        cout<<"2 * "<<i<<2 * i<<endl;
     }
 }
 
